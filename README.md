@@ -16,6 +16,15 @@ https://rinkeby.etherscan.io/address/0xCceA5e4D2F630359786Cf4761F460a4147FAF3FA
 ```bash
   npm run coverage
 ```
+
+## Env
+
+Creat .env file
+```bash
+  
+INFURA_URL = ""
+PRIVATE_KEY = ""
+```
     
 ## Hard task
 
